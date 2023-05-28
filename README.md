@@ -29,7 +29,7 @@
 ## About The Project
 <img width="1412" alt="Screenshot 2023-05-28 at 9 55 54 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/a9110273-8084-4320-887b-3cde505e4d59">
 <img width="1412" alt="Screenshot 2023-05-28 at 9 56 07 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/b0288cc8-20e4-4ab8-870b-051867aead3a">
-<img width="1412" alt="Screenshot 2023-05-28 at 9 55 54 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/9249b8fa-52ea-477a-b58d-d35f8a00efb9">
+<img width="806" alt="Screenshot 2023-05-28 at 11 44 30 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/e3a7eac4-c178-4b9b-88f4-770544637af5">
 
 <img width="1412" alt="Screenshot 2023-05-28 at 9 56 17 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/96cd4fee-d652-443f-a7ce-b9946d2cf941">
 
