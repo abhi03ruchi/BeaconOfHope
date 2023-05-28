@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/abhi03ruchi/Beacon Of Hope ">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img width="250" alt="LOGO" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/80681db0-1dc3-4792-b9e8-2b18bdc87c61">
   </a>
 
   <h3 align="center">Beacon Of Hope</h3>
@@ -19,31 +19,29 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/abhi03ruchi/Beacon Of Hope /total) ![Contributors](https://img.shields.io/github/contributors/abhi03ruchi/Beacon Of Hope ?color=dark-green) ![Forks](https://img.shields.io/github/forks/abhi03ruchi/Beacon Of Hope ?style=social) ![Stargazers](https://img.shields.io/github/stars/abhi03ruchi/Beacon Of Hope ?style=social) ![Issues](https://img.shields.io/github/issues/abhi03ruchi/Beacon Of Hope ) ![License](https://img.shields.io/github/license/abhi03ruchi/Beacon Of Hope ) 
-
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
+* [Join the Community](#join-the-community)
 * [Roadmap](#roadmap)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 <img width="1412" alt="Screenshot 2023-05-28 at 9 55 54 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/a9110273-8084-4320-887b-3cde505e4d59">
 <img width="1412" alt="Screenshot 2023-05-28 at 9 56 07 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/b0288cc8-20e4-4ab8-870b-051867aead3a">
 <img width="1412" alt="Screenshot 2023-05-28 at 9 56 17 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/96cd4fee-d652-443f-a7ce-b9946d2cf941">
 
+Our project offers a safe and non-judgmental space where you can connect with others who have been where individuals are and can offer empathy and support. they can also read about others experiences and learn from their insights. Let's build a stronger and more compassionate community! 🌟🤗 #ConnectionMatters #EmpathyWins #TogetherWeCan
 
-It was a dark and quiet night. The kind of night where the only sound you hear is the soft hum of the streetlights. But for one person, the silence was deafening. They were alone, feeling hopeless and lost. They couldn't see a way out of the pain they were feeling, and the only solution they saw was to end their life.
+The website offers a simple and easy way to get started. Just create your own ID, log in, and explore the stories, resources, and support available to you. You can also reach out to us by email and get personalized feedback and advice. We are here for you! ❤️📧
 
-Suicide is a tragedy that affects us all. It's a problem that can strike anyone, at any time, and for any reason. It's not something that we can ignore or sweep under the rug. It's a real issue that needs our attention and action.
+Our website offers a collection of videos and tools to help you manage your mental health and stay positive.
 
-But what can we do? How can we prevent suicide? The answer is simple, yet complex. We need to be there for one another. We need to listen, support, and offer help.
+> Our website offers a range of resources and tools that you can use to create your own wellness plan and track your progress.
+> You can set goals, monitor your habits, and celebrate your achievements for this We have made three crew extensions that is one is is to motivate the individuals the other  provides you with a daily dose of humor and joy.
+> And one Chrome extensions provides an personalized alarm and message to start your day on a positive note.
 
-If you or someone you know is struggling, reach out for help. There are resources available, people who care, and a way forward. You are not alone.
 
 Together, we can make a difference. We can save lives. Let's start today.
 
@@ -52,24 +50,14 @@ Together, we can make a difference. We can save lives. Let's start today.
 
 ## Built With
 
-html , css , javascript , json
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 
-## Getting Started
 
-.
 
-## Usage
+## Join the Community
+Feeling down? Need someone to talk to? Join our Telegram community for free and get instant support and motivation from our community members and mental health experts. We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-## Roadmap
-
-See the [open issues](https://github.com/abhi03ruchi/Beacon Of Hope /issues) for a list of proposed features (and known issues).
-
-### Creating A Pull Request
-
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 
 ## Authors
