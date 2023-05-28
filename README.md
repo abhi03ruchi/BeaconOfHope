@@ -14,7 +14,7 @@
     <a href="https://github.com/abhi03ruchi/Beacon Of Hope "><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/abhi03ruchi/Beacon Of Hope ">View Demo</a>
+    <a href="https://beacon-of-hope.vercel.app/">View Demo</a>
     .
   </p>
 </p>
@@ -24,8 +24,7 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Join the Community](#join-the-community)
-* [Roadmap](#roadmap)
-* [Authors](#authors)
+* [Made By](#made-by)
 
 ## About The Project
 <img width="1412" alt="Screenshot 2023-05-28 at 9 55 54 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/a9110273-8084-4320-887b-3cde505e4d59">
@@ -38,11 +37,14 @@ The website offers a simple and easy way to get started. Just create your own ID
 
 Our website offers a collection of videos and tools to help you manage your mental health and stay positive.
 
-> Our website offers a range of resources and tools that you can use to create your own wellness plan and track your progress.
-> You can set goals, monitor your habits, and celebrate your achievements for this We have made three crew extensions that is one is is to motivate the individuals the other  provides you with a daily dose of humor and joy.
-> And one Chrome extensions provides an personalized alarm and message to start your day on a positive note.
-
-
+<h3> Salient Features </h3>
+<ul>
+ <li>Our website offers a range of resources and tools that you can use to create your own wellness plan and track your progress. </li>
+   <li> You can set goals, monitor your habits, and celebrate your achievements for this We have made three crew extensions that is one is is to motivate the individuals the other  provides you with a daily dose of humor and joy. </li>
+   <li> And one Chrome extensions provides an personalized alarm and message to start your day on a positive note.</li>
+    <li> Responsive web app and user friendly interface.</li>
+</ul>
+ 
 Together, we can make a difference. We can save lives. Let's start today.
 
 #SuicidePrevention #MentalHealthAwareness #YouAreNotAlone
@@ -57,11 +59,10 @@ Together, we can make a difference. We can save lives. Let's start today.
 ## Join the Community
 Feeling down? Need someone to talk to? Join our Telegram community for free and get instant support and motivation from our community members and mental health experts. We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
 
-<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
+Link :-> 
 
 
-## Authors
-
-* **Abhiruchi** - ** - [Abhiruchi](https://github.com/ShaanCoding/) - **
-* **** - ** - []() - **
-
+## Made By :
+* Abhiruchi Sarswat (https://github.com/abhi03ruchi)
+* Gargi Bhardwaj (https://github.com/GargiBhardwaj16)
+* Tarushi()
