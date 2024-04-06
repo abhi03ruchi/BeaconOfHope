@@ -13,8 +13,6 @@ hamburger.addEventListener('click', ()=>{
     hamburger.classList.toggle("toggle");
 });
 
-
-
 // popup
 const popupBtn = document.querySelector('.popup-btn');
 const popupOverlay = document.querySelector('.popup-overlay');
