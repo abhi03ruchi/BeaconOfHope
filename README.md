@@ -58,7 +58,8 @@ Together, we can make a difference. We can save lives. Let's start today.
 
 
 ## TALK TO LUMINA BOT 👩🏼‍🦰
-Feeling down? Need someone to talk to? Connect with LUMINA  (an AI bot made using google gemini api key) ,for  free and instant support . We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
+Feeling down? Need someone to talk to?
+Connect with LUMINA  (an AI bot made using google gemini api key) ,for  free and instant support . We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
 
 
 ## Made By :
