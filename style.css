@@ -64,6 +64,7 @@ nav{
   text-decoration: none;
   margin: 0 0.7vw;
   font-size: 20px;
+  color: #000;
 }
 .nav-links li a:hover {
   color: #c80e13;
@@ -71,7 +72,7 @@ nav{
 .nav-links li {
   position: relative;
 }
-.nav-links li a::before {
+/* .nav-links li a::before {
   content: "";
   display: block;
   top: 24px;
@@ -81,7 +82,7 @@ nav{
   position: absolute;
   transition: all ease-in-out 250ms;
   margin: 0 0 0 10%;
-}
+} */
 .nav-links li a:hover::before{
   width: 80%;
 }
@@ -936,17 +937,17 @@ modal-header {
 .chatbot-toggler {
   position: fixed;
   bottom: 30px;
-  right: 35px;
+  right: 65px;
   outline: none;
   border: none;
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   display: flex;
   cursor: pointer;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  background: #724ae8;
+  background:#ff5e6c;
   transition: all 0.2s ease;
 }
 body.show-chatbot .chatbot-toggler {
@@ -968,7 +969,7 @@ body.show-chatbot .chatbot-toggler span:last-child {
   right: 35px;
   bottom: 90px;
   width: 420px;
-  background: #fff;
+  background:  #fff5d7;
   border-radius: 15px;
   overflow: hidden;
   opacity: 0;
@@ -988,8 +989,8 @@ body.show-chatbot .chatbot {
   padding: 16px 0;
   position: relative;
   text-align: center;
-  color: #fff;
-  background: #724ae8;
+  color:  #fff5d7;
+  background:#ff5e6c;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 .chatbot header span {
@@ -1035,7 +1036,7 @@ header h2 {
   text-align: center;
   line-height: 32px;
   align-self: flex-end;
-  background: #724ae8;
+  background: #ff5e6c;
   border-radius: 4px;
   margin: 0 10px 7px 0;
 }
@@ -1046,7 +1047,7 @@ header h2 {
   max-width: 75%;
   color: #fff;
   font-size: 0.95rem;
-  background: #724ae8;
+  background:#ff5e6c;
 }
 .chatbox .incoming p {
   border-radius: 10px 10px 10px 0;
@@ -1057,31 +1058,32 @@ header h2 {
 }
 .chatbox .incoming p {
   color: #000;
-  background: #f2f2f2;
+  background:  white;
 }
 .chatbot .chat-input {
   display: flex;
-  gap: 5px;
+  gap: 4px;
   position: absolute;
   bottom: 0;
   width: 100%;
-  background: #fff;
-  padding: 3px 20px;
-  border-top: 1px solid #ddd;
+  background: #fff5d7;
+  border-top: 1px solid #ffaaab;
 }
 .chat-input textarea {
   height: 55px;
   width: 100%;
   border: none;
   outline: none;
+  background-color: #fff5d7;
   resize: none;
   max-height: 180px;
   padding: 15px 15px 15px 0;
   font-size: 0.95rem;
+  text-align: center;
 }
 .chat-input span {
   align-self: flex-end;
-  color: #724ae8;
+  color: #ff5e6c;
   cursor: pointer;
   height: 55px;
   display: flex;
