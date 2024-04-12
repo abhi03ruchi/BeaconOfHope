@@ -43,7 +43,7 @@ Our website offers a collection of videos and tools to help you manage your ment
 <ul>
      <li> Harnesses the power of Lumina AI Bot for personalized mental health support and guidance. </li>
      <li> Seamlessly translate content with Google Translate to cater to both indian and global audience.  </li>
- <li>Our website offers a range of resources and tools that you can use to create your own wellness plan and track your progress. </li>
+ <li>Our website offers a range of resources and tools for wellness. </li>
     <li> Responsive web app and user friendly interface.</li>
 </ul>
  
@@ -57,8 +57,7 @@ Together, we can make a difference. We can save lives. Let's start today.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 
 
-
-## TALK TO LUMINA BOT
+## TALK TO LUMINA BOT 👩🏼‍🦰
 Feeling down? Need someone to talk to? Connect with LUMINA  (an AI bot made using google gemini api key) ,for  free and instant support . We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
 
 
